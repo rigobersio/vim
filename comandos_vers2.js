@@ -61,15 +61,20 @@ hola mundo
 
 #Identación
 
-> = mueve a la derecha
->+% = mueve un bloque completo a la derecha
+> | >> = mueve a la derecha
+>+% = mueve un bloque completo a la derecha. en mi configuración actual solo elimina todas las identaciones del bloque
 < = a la izquierda
-<+% = mueve un bloque completo a la izquierda
+<+% = mueve un bloque completo a la izquierda. en mi configuración actual solo elimina todas las identaciones del bloque
 tab = tambien identa a la derecha
+=% = identa un bloque despues de una llave. function()  DESTE ESTE PUNTO{cuerpo}// hay que pocisionarse en la llave
+en mi configuración actual elimina todas la identaciones.
 ****
 gg=G = corrigue todo el documento
 ***
-
+function(){
+lala = 5;
+      if(tru){'si como no'}
+}
 
 
 `
