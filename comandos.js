@@ -42,14 +42,33 @@ v d = elimina el texto seleccionado
 # en vez de "d+0" puede ser "v+0+d"
 u = para desacer cambios
 control + r = rehacer cambios
+y = copiar
+p = pega despues del lugar
+P = pega antes del lugar
+
 
 sdiu fhudoijsdoifjoe
 c
-fposd jp´dskfposd kjfp
+hola mundo
+fposd jp´dskfpo  dskfpo dskfpo dskfpodskfpodskfpo dskfpo dskfpo dskfpo dskfposdskfpodskfpodskfpdskfpdskfpoood kjfp
+hola mundo
+hola mundo
 Vsdlfkjds ioifhisufjoie dsiufhiew uhfiewu suifhewiu fhieu iu fiewu fhiuew hf
 hola mundo
 
+hola mundo
+hola mundo
 
+#Identación
+
+> = mueve a la derecha
+>+% = mueve un bloque completo a la derecha
+< = a la izquierda
+<+% = mueve un bloque completo a la izquierda
+tab = tambien identa a la derecha
+****
+gg=G = corrigue todo el documento
+***
 
 
 
